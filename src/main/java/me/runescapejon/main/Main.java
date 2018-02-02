@@ -23,7 +23,7 @@ import ninja.leaping.configurate.ConfigurationNode;
 import ninja.leaping.configurate.commented.CommentedConfigurationNode;
 import ninja.leaping.configurate.loader.ConfigurationLoader;
 
-@Plugin(id = "customrestartmessage-sponge", name = "CustomRestartMessage-Sponge", authors = {
+@Plugin(id = "customrestartmessage", name = "CustomRestartMessage", authors = {
 		"runescapejon" }, description = "Have a custom restart/stop message that fits your server needs when you stop/restart your server", version = "1.0")
 public class Main {
 	private ConfigurationNode Config;
